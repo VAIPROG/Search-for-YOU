@@ -9,7 +9,7 @@ academia, the indie old web, maps, shopping and streaming (Russian & global) —
 single editorial directory. Pick a source, run it, or share a link that plays a
 cinematic boot-up search sequence before landing on the results.
 
-[**Live demo**](https://vadim-khristenko.github.io/Search-for-YOU/) · [Report a bug](https://github.com/Vadim-Khristenko/Search-for-YOU/issues) · [Request a feature](https://github.com/Vadim-Khristenko/Search-for-YOU/issues)
+[**Live demo**](https://vai-rice.space/Search-for-YOU/) · [Report a bug](https://github.com/VAIPROG/Search-for-YOU/issues) · [Request a feature](https://github.com/VAIPROG/Search-for-YOU/issues)
 
 `HTML` · `CSS` · `Vanilla JS` · `No build step` · `GitHub Pages ready`
 
